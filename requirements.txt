@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+evaluate
+accelerate
+unsloth
+trl
+sentencepiece
+nltk
+scipy
+pandas
+tqdm
+fastapi
+uvicorn
+pydantic
