@@ -2,6 +2,8 @@
 
 This repository provides a streamlined pipeline for **fine-tuning** and **evaluating** a **LoRA-adapted Unsloth model** using **TRL's SFTTrainer** and **Hugging Face Transformers**. It supports **Docker-based deployment** for easy execution in isolated environments.
 
+find the model and its checkpoints here: <https://drive.google.com/drive/folders/1FhOqbE5cm_P7sIVGea2N-xnxru3kjV7P?usp=drive_link>
+
 ## 📂 Project Structure
 
 ```
